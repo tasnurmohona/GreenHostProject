@@ -1,19 +1,54 @@
+ /* homepage stared */
 .homepage{
-    background-color: rgb(9, 188, 54);
+   background-image: url(../img/Layer3.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 642px;
 }
+/* navpart stared  */
 .logo{
     padding: 3px;
+    display: flex;
+    margin-left: 8px;
 }
-
+.logo:hover a{
+    color: #fb0808 !important;
+}
+.logo a{
+    color: #fff;
+    font-size: 30px;
+    
+    margin-left: 5px;
+    
+   }
+   .fa-bars{
+    font-size: 36px;
+   } 
+   .logo b{
+  
+    margin-top: 30px;
+   }
+.navbar{
+    background-color: transparent !important;
+    color: aliceblue;
+}
 .navbar-brand{
     margin-left: 5px;
+    
 }
 .me-auto{
-    margin-left: 500px;
+    margin-left: 430px;
 }
 .nav-item{
     padding: 4px;
 }
+  
+.nav-link{
+    color: #fff !important;
+   }
+   .nav-link:hover{
+  color: #fb0808 !important;
+   }
 .fa-solid{
     line-height: 3 !important;
 }
@@ -28,9 +63,6 @@
     --bs-btn-hover-color: #fff ;
     --bs-btn-hover-bg: #fb0808 !important;
     --bs-btn-hover-border-color: #fb0808 !important;}
-    .bg-body-tertiary {
-        background-color: transparent !important ;
-    }  
-    .bg-body-tertiary {
-        background-color: transparent !important;
-    }
+ /* navpart end  */
+ 
+ 
