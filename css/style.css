@@ -1,1 +1,36 @@
+.homepage{
+    background-color: rgb(9, 188, 54);
+}
+.logo{
+    padding: 3px;
+}
 
+.navbar-brand{
+    margin-left: 5px;
+}
+.me-auto{
+    margin-left: 500px;
+}
+.nav-item{
+    padding: 4px;
+}
+.fa-solid{
+    line-height: 3 !important;
+}
+.button{
+    margin-left: 20px;
+    margin-top: 5px;
+    
+}
+.btn-outline-success {
+    --bs-btn-color: #fb0808 !important;
+    --bs-btn-border-color: #fb0808 !important;
+    --bs-btn-hover-color: #fff ;
+    --bs-btn-hover-bg: #fb0808 !important;
+    --bs-btn-hover-border-color: #fb0808 !important;}
+    .bg-body-tertiary {
+        background-color: transparent !important ;
+    }  
+    .bg-body-tertiary {
+        background-color: transparent !important;
+    }
