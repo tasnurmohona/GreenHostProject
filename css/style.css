@@ -106,7 +106,7 @@
     margin-top: 100px;
     background-image: url(../img/bg-domain.png);
     background-position:
-    276px -4%,
+    300px -4%,
     right 0 top 0,
     left 50% top 0,
     left 50% top 50%,
@@ -128,14 +128,14 @@ background-repeat: no-repeat;
     width: 95px;
     margin-left: 583px;
     margin-bottom: -9px;
-    color: #23b908;
+    color: hsl(81.75deg 83.41% 40.2%);
     
 }
 .hr2{
     width: 152px;
     margin-left: 555px;
     margin-bottom: -9px;
-    color: #08b80e;
+    color: hsl(81.75deg 83.41% 40.2%);
     
 }
 .hr3{
@@ -157,7 +157,7 @@ background-repeat: no-repeat;
     background-color: transparent !important;
 }
 .btn1{
-    background-color: #29ca0d !important;
+    background-color: hsl(81.75deg 83.41% 40.2%) !important;
     border-radius: 15px !important;
     color: #fff !important;
     padding: -1px !important;
@@ -165,13 +165,54 @@ background-repeat: no-repeat;
     margin-top: 3px;
     margin-right: 3px;
 }
+/* about end  */
+/* domain stared */
 .com{
-    color: #23b908;
+    color:hsl(81.75deg 83.41% 40.2%) ;
    
 }
-.row{
+.row0{
     margin-left: 120px !important;
+    display: flex;
 }
 .rate{
     margin-top: -17px !important;
 }
+
+h1{
+    margin-bottom: 1.5rem !important;
+}
+hr{
+    margin-top: -10px !important;
+    opacity: 1 !important;
+}
+.row1{
+    display: flex;
+    margin-top: 90px;
+}
+.col-5 img{
+    height: 450px;
+    width: 490px;
+    margin-left: 43px;
+
+
+}
+.col-7{
+    margin-top: 60px;
+    margin-left: 14px;
+}
+.card{
+    background-color: rgba(221, 218, 218, 0.759) !important;
+    text-align: center;
+    border: none !important;
+}
+.cardnum{
+margin-top: -20px;
+}
+.cardtitle{
+margin-top: -20px;
+}
+.cardicon{
+    color: hsl(81.75deg 83.41% 40.2%) ;
+}
+/* domain end  */
