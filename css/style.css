@@ -1,218 +1,422 @@
  /* homepage stared */
-.homepage{
-   background-image: url(../img/Layer3.png);
-   background-position: center;
-   background-repeat: no-repeat;
-   height: 728px;
-}
-/* navpart stared  */
-.logo{
-    /* padding: 3px; */
-    display: flex;
-    margin-left: 18px;
-    height: 48px;
-}
+ .homepage {
+     background-image: url(../img/Layer3.png);
+     background-position: center;
+     background-repeat: no-repeat;
+     height: 728px;
+ }
 
-.logo:hover a{
-    color: #fb0808 !important;
-}
-.logo a{
-    color: #fff;
-    font-size: 30px;
-    
-    margin-left: 5px;
-   
-    
-   }
-  .logo b{
-  
-    margin-top: -4px;
-   }
-.navbar{
-    background-color: transparent !important;
-    color: aliceblue;
-}
-.navbar-brand{
-    margin-left: 5px;
-    
-}
-.me-auto{
-    margin-left: 430px;
-}
-/* .nav-item{
+ /* navpart stared  */
+ .logo {
+     /* padding: 3px; */
+     display: flex;
+     margin-left: 18px;
+     height: 48px;
+ }
+
+ .logo:hover a {
+     color: #fb0808 !important;
+ }
+
+ .logo a {
+     color: #fff;
+     font-size: 30px;
+
+     margin-left: 5px;
+
+
+ }
+
+ .logo b {
+
+     margin-top: -4px;
+ }
+
+ .navbar {
+     background-color: transparent !important;
+     color: aliceblue;
+ }
+
+ .navbar-brand {
+     margin-left: 5px;
+
+ }
+
+ .me-auto {
+     margin-left: 430px;
+ }
+
+ /* .nav-item{
     padding: 4px;
 } */
-  
-.nav-link{
-    color: #fff !important;
-   }
-   .nav-link:hover{
-  color: #fb0808 !important;
-   }
-.fa-solid{
-    line-height: 3 !important;
-}
-.button{
-    margin-left: 26px;
-    margin-top: 5px;
-    
-}
-.btn-outline-success {
-    --bs-btn-color: #fb0808 !important;
-  
-    --bs-btn-border-color: #fb0808 !important;
-    --bs-btn-hover-color: #fff ;
-    --bs-btn-hover-bg: #fb0808 !important;
-    --bs-btn-hover-border-color: #fb0808 !important;}
+
+ .nav-link {
+     color: #fff !important;
+ }
+
+ .nav-link:hover {
+     color: #fb0808 !important;
+ }
+
+ .fa-solid {
+     line-height: 3 !important;
+ }
+
+ .button {
+     margin-left: 26px;
+     margin-top: 5px;
+
+ }
+
+ .btn-outline-success {
+     --bs-btn-color: #fb0808 !important;
+
+     --bs-btn-border-color: #fb0808 !important;
+     --bs-btn-hover-color: #fff;
+     --bs-btn-hover-bg: #fb0808 !important;
+     --bs-btn-hover-border-color: #fb0808 !important;
+ }
+
  /* navpart end  */
- .hometitle{
-    font-size: 45px !important;
+ .hometitle {
+     font-size: 45px !important;
      margin-left: 35px;
      margin-top: 94px;
-     
-    color: #fff;
- }
- .homediscraib{
-    color: #fff;
-    margin-left: 30px;
-    width: 550px;
-    margin-top: 31px;
- }
- .priceT{
-    color: #fff;
-    display: flex;
-    margin-left: 30px;
- }
- .price{
-    font-size: 35px;
-    margin-left: 6px;
- }
- .p{
-    margin-top: 20px;
-    margin-left: 5px;
- }
- .button2{
-    margin-left: 30px;
-    margin-top: 20px;
-    
-}
-.btn{
-    background-color: #fb0808 !important;
-    color: #fff !important;
-}
-/* homepart end  */
-/* about steard  */
-.about{
-    margin-top: 100px;
-    background-image: url(../img/bg-domain.png);
-    background-position:
-    300px -4%,
-    right 0 top 0,
-    left 50% top 0,
-    left 50% top 50%,
-    center bottom -1px;
-background-repeat: no-repeat;
 
-}
-.abouttitle{
-    margin-left: 400px;
-    font-size: 50px;
-}
-.aboutdiscraib{
-    height: 58px;
-    width: 724px;
-    margin-left: 272px;
-    text-align: center;
-}
-.hr1{
-    width: 95px;
-    margin-left: 583px;
-    margin-bottom: -9px;
-    color: hsl(81.75deg 83.41% 40.2%);
-    
-}
-.hr2{
-    width: 152px;
-    margin-left: 555px;
-    margin-bottom: -9px;
-    color: hsl(81.75deg 83.41% 40.2%);
-    
-}
-.hr3{
-    width: 95px;
-    margin-left: 583px;
-    margin-bottom: -7px;
-    color: #4f0303;
-  
-}
-.input-group{ width: 1123px !important;
-    height: 60px;
-    border: 1px solid;
-    border-radius: 10px;
-    margin-left: 105px;
-    
-}
-.form-control{
-    width: 900px !important;
-    background-color: transparent !important;
-}
-.btn1{
-    background-color: hsl(81.75deg 83.41% 40.2%) !important;
-    border-radius: 15px !important;
-    color: #fff !important;
-    padding: -1px !important;
-    height: 50px;
-    margin-top: 3px;
-    margin-right: 3px;
-}
-/* about end  */
-/* domain stared */
-.com{
-    color:hsl(81.75deg 83.41% 40.2%) ;
-   
-}
-.row0{
-    margin-left: 120px !important;
-    display: flex;
-}
-.rate{
-    margin-top: -17px !important;
-}
+     color: #fff;
+ }
 
-h1{
-    margin-bottom: 1.5rem !important;
-}
-hr{
-    margin-top: -10px !important;
-    opacity: 1 !important;
-}
-.row1{
-    display: flex;
-    margin-top: 90px;
-}
-.col-5 img{
-    height: 450px;
-    width: 490px;
-    margin-left: 43px;
+ .homediscraib {
+     color: #fff;
+     margin-left: 30px;
+     width: 550px;
+     margin-top: 31px;
+ }
+
+ .priceT {
+     color: #fff;
+     display: flex;
+     margin-left: 30px;
+ }
+
+ .price {
+     font-size: 35px;
+     margin-left: 6px;
+ }
+
+ .p {
+     margin-top: 20px;
+     margin-left: 5px;
+ }
+
+ .button2 {
+     margin-left: 30px;
+     margin-top: 20px;
+
+ }
+
+ .btn {
+     background-color: #fb0808 !important;
+     color: #fff !important;
+ }
+
+ /* homepart end  */
+ /* about steard  */
+ .about {
+     margin-top: 100px;
+     background-image: url(../img/bg-domain.png);
+     background-position:
+         300px -4%,
+         right 0 top 0,
+         left 50% top 0,
+         left 50% top 50%,
+         center bottom -1px;
+     background-repeat: no-repeat;
+
+ }
+
+ .abouttitle {
+     margin-left: 400px;
+     font-size: 50px;
+ }
+
+ .aboutdiscraib {
+     height: 58px;
+     width: 724px;
+     margin-left: 272px;
+     text-align: center;
+ }
+
+ .hr1 {
+     width: 95px;
+     margin-left: 583px;
+     margin-bottom: -9px;
+     color: hsl(81.75deg 83.41% 40.2%);
+
+ }
+
+ .hr2 {
+     width: 152px;
+     margin-left: 555px;
+     margin-bottom: -9px;
+     color: hsl(81.75deg 83.41% 40.2%);
+
+ }
+
+ .hr3 {
+     width: 95px;
+     margin-left: 583px;
+     margin-bottom: -7px;
+     color: #4f0303;
+
+ }
+
+ .input-group {
+     width: 1123px !important;
+     height: 60px;
+     border: 1px solid;
+     border-radius: 10px;
+     margin-left: 105px;
+
+ }
+
+ .form-control {
+     width: 900px !important;
+     background-color: transparent !important;
+ }
+
+ .btn1 {
+     background-color: hsl(81.75deg 83.41% 40.2%) !important;
+     border-radius: 15px !important;
+     color: #fff !important;
+     padding: -1px !important;
+     height: 50px;
+     margin-top: 3px;
+     margin-right: 3px;
+ }
+
+ /* about end  */
+ /* domain stared */
+ .com {
+     color: hsl(81.75deg 83.41% 40.2%);
+
+ }
+
+ .row0 {
+     margin-left: 120px !important;
+     display: flex;
+ }
+
+ .rate {
+     margin-top: -17px !important;
+ }
+
+ h1 {
+     margin-bottom: 1.5rem !important;
+ }
+
+ hr {
+     margin-top: -10px !important;
+     opacity: 1 !important;
+ }
+
+ .row1 {
+     display: flex;
+     margin-top: 90px;
+ }
+
+ .col-5 img {
+     height: 450px;
+     width: 490px;
+     margin-left: 43px;
 
 
-}
-.col-7{
-    margin-top: 60px;
-    margin-left: 14px;
-}
-.card{
-    background-color: rgba(221, 218, 218, 0.759) !important;
-    text-align: center;
-    border: none !important;
-}
-.cardnum{
-margin-top: -20px;
-}
-.cardtitle{
-margin-top: -20px;
-}
-.cardicon{
-    color: hsl(81.75deg 83.41% 40.2%) ;
-}
-/* domain end  */
+ }
+
+ .col-7 {
+     margin-top: 60px;
+     margin-left: 14px;
+ }
+
+ .card {
+     background-color: rgba(221, 218, 218, 0.759) !important;
+     text-align: center;
+     border: none !important;
+ }
+
+ .cardnum {
+     margin-top: -20px;
+ }
+
+ .cardtitle {
+     margin-top: -20px;
+ }
+
+ .cardicon {
+     color: hsl(81.75deg 83.41% 40.2%);
+ }
+
+ /* domain end  */
+ /* hosting stared  */
+ .hosting {
+     margin-top: 100px;
+ }
+
+ .hostitle {
+     text-align: center;
+ }
+
+ .hosdiscraiv {
+     width: 600px;
+     margin-left: 345px;
+ }
+
+ .hr1 {
+     width: 95px;
+     margin-left: 583px;
+     margin-bottom: -9px;
+     color: hsl(81.75deg 83.41% 40.2%);
+
+ }
+
+ .hr2 {
+     width: 152px;
+     margin-left: 555px;
+     margin-bottom: -9px;
+     color: hsl(81.75deg 83.41% 40.2%);
+
+ }
+
+ .hr3 {
+     width: 95px;
+     margin-left: 583px;
+     margin-bottom: -7px;
+     color: #f91010;
+
+ }
+
+ .cardhead {
+     background-color: hsl(81.75deg 83.41% 40.2%);
+     height: 3px;
+ }
+
+ .hosrow {
+     display: flex;
+
+     margin-top: 50px;
+ }
+
+ .hoscardicon {
+     background-color: hsl(81.75deg 83.41% 40.2%);
+     width: 35px;
+     height: 45px;
+     border-radius: 100%;
+     margin-top: -21px;
+     margin-left: 163px;
+ }
+
+ .hoscard {
+     margin-top: 20px;
+ }
+
+ .hoscardp {
+     text-align: center;
+ }
+
+ .hoscard3 {
+     background-color: #fff !important;
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+     margin: 24px;
+
+
+ }
+
+ .hos2line {
+     display: flex;
+     margin-left: 118px;
+     margin-top: -10px;
+ }
+
+ .hoscard1price {
+     font-size: 26px;
+ }
+
+ .month {
+     margin-top: 10px;
+ }
+
+ .btn2 {
+     border-radius: 4px;
+     color: #fff;
+     border: none;
+     background-color: hsl(81.75deg 83.41% 40.2%) !important;
+ }
+
+ .line {
+     display: flex;
+ }
+
+ .linetext {
+     margin-top: 11px;
+     margin-left: 10px;
+ }
+
+ .cardhead2 {
+     background-color: hsl(7, 98%, 49%);
+     height: 3px;
+
+ }
+
+ .hoscardicon2 {
+     background-color: hsl(7, 98%, 49%);
+     width: 35px;
+     height: 45px;
+     border-radius: 100%;
+     margin-top: -21px;
+     margin-left: 163px;
+ }
+
+ .btn3 {
+     border-radius: 4px;
+     color: #fff;
+     border: none;
+     background-color: hsl(7, 98%, 49%) !important;
+ }
+
+ /* hostpart end  */
+ /* pages stared  */
+ .pagestitle {
+     margin-top: 90px;
+ }
+
+ .pagetitle {
+     margin-left: 10px;
+     margin-top: 20px;
+     padding-bottom: 7px;
+ }
+
+ .hr {
+     margin-left: 10px;
+ }
+
+ .ssicon {
+     text-align: left;
+     margin-top: -27px;
+     margin-left: 10px;
+ }
+
+ .stitle {
+     text-align: left;
+     margin-top: -20px;
+     margin-left: 10px;
+
+ }
+
+ .stext {
+     text-align: left;
+     margin-left: 10px;
+ }
+
+ .scard {
+     --bs-card-bg: var(--bs-body-bg);
+ }
